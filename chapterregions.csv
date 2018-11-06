@@ -1,0 +1,62 @@
+RegionCode;RegionName;RegionCity;RegionState;DivisionCode
+00R00;National Headquarters;Washington;DC;D00
+01R04;Alabama Region;Hoover;AL;D25
+02R04;Alaska Region;Anchorage;AK;D21
+03R04;Arizona New Mexico El Paso Region;Phoenix;AZ;D22
+05R04;Central California Region;Camarillo;CA;D21
+05R12;Los Angeles Region;Los Angeles;CA;D21
+05R20;Gold Country Region;Sacramento;CA;D21
+05R24;San Diego Region;San Diego;CA;D21
+05R28;Northern California Coastal Region;San Francisco;CA;D21
+05R32;Desert to the Sea Region;Santa Ana;CA;D21
+06R08;Colorado and Wyoming Region;Denver;CO;D22
+07R08;Connecticut and Rhode Island Region;Farmington;CT;D27
+09R04;National Capital Area Region;Washington;DC;D26
+10R08;North Florida Region;Jacksonville;FL;D25
+10R12;South Florida Region;Miami;FL;D25
+10R28;Central Florida Region;Tampa;FL;D25
+11R04;Georgia Region;Atlanta;GA;D25
+12R04;Idaho and Montana Region;Boise;ID;D23
+13R04;Chicago and Northern Illinois Region;Chicago;IL;D23
+13R12;Central and Southern Illinois Region;Peoria;IL;D23
+14R12;Indiana Region;Indianapolis;IN;D24
+15R08;Iowa Region;Des Moines;IA;D23
+17R08;Kentucky Region;Louisville;KY;D24
+18R08;Louisiana Region;New Orleans;LA;D25
+19R04;Maine Region;Portland;ME;D27
+20R04;Greater Chesapeake Region;Baltimore;MD;D26
+21R04;Massachusetts Region;Cambridge;MA;D27
+22R08;Michigan Region;Detroit;MI;D24
+23R12;Minnesota Region;Minneapolis;MN;D23
+24R08;Mississippi Region;Flowood;MS;D25
+25R12;Western Missouri Region;Kansas City;MO;D23
+25R16;Eastern Missouri Region;St. Louis;MO;D23
+27R12;Kansas Nebraska SW Iowa Region;Omaha;NE;D23
+29R04;New Hampshire and Vermont Region;Concord;NH;D27
+30R08;New Jersey Region;Princeton;NJ;D27
+32R04;Eastern New York Region;Albany;NY;D27
+32R16;Greater New York Region;New York;NY;D27
+32R20;Western and Central New York Region;Syracuse;NY;D27
+33R08;Western North Carolina Region;Charlotte;NC;D26
+33R16;Eastern North Carolina Region;Raleigh;NC;D26
+34R08;Dakotas Region;Fargo;ND;D23
+35R12;Greater Cincinnati-Dayton Region;Cincinnati;OH;D24
+35R16;Northeast Ohio Region;Cleveland;OH;D24
+35R20;Ohio Buckeye Region;Columbus;OH;D24
+36R04;Oklahoma and Arkansas Region;Oklahoma City;OK;D22
+37R04;Cascades Region;Portland;OR;D21
+38R16;Central Pennsylvania Region;Harrisburg;PA;D26
+38R24;Eastern Pennsylvania Region;Phildalephia;PA;D26
+38R28;Western Pennsylvania Region;Pittsburgh;PA;D26
+40R08;South Carolina Region;Charleston;SC;D26
+42R20;Tennessee Region;Nashville;TN;D25
+43R08;Central and South Texas Region;Austin;TX;D22
+43R16;North Texas Region;Dallas;TX;D22
+43R28;Texas Gulf Coast Region;Houston;TX;D22
+44R04;Utah and Nevada Region;Salt Lake City;UT;D22
+46R08;Virginia Region;Richmond;VA;D26
+47R08;Northwest Region;Seattle;WA;D21
+48R04;West Virginia Region;Charleston;WV;D24
+49R12;Wisconsin Region;Milwaukee;WI;D23
+54R04;Pacific Islands Region;Honolulu;HI;D21
+56R04;Puerto Rico Region;Rio Pedras;PR;D25

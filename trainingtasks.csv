@@ -1,0 +1,78 @@
+TaskID;Task;Function
+1;Conduct a cellular coverage survey;DST/CM
+2;Deploy Hand-Held Radios;DST/CM
+3;ERV Evaluation;DST/CM
+4;Install 47.42 Base Station;DST/CM
+5;Install 47.42 Mobile Radio;DST/CM
+6;Install Amateur Radio Kit (hams only);DST/CM
+7;Install Cellular Bi-Directional Amplifier;DST/CM
+8;Install MSAT;DST/CM
+9;Set up and deploy Iridium Satellite phones;DST/CM
+10;DRO Server - Unpacking, setup;DST/CO
+11;DRO Server Basic Workstation Setup;DST/CO
+12;Knowledge of DTP Location;DST/CO
+13;Knowledge of Responsibility/Guidelines Location;DST/CO
+14;Laptop - BASIC Workstation;DST/CO
+15;Laptop - Properly pack laptop & accessories ;DST/CO
+16;Laptop Server Backup;DST/CO
+17;Laptop Server Basic Workstation Setup;DST/CO
+18;Laptop Server Setup;DST/CO
+19;Printer - Okidata - Create DHCP Reservation;DST/CO
+20;Printer - Okidata - Create DHCP Reservation;DST/CO
+21;Printer - Okidata - Decommission and Packing Printer;DST/CO
+22;Printer - Okidata - Networked Printer in DRO Server or Hotsite Environment;DST/CO
+23;Printer - Okidata - Physical Setup;DST/CO
+24;Printer - Okidata - Setup Printer on Workstation without the Printer Physically Attached;DST/CO
+25;Printer - Okidata - Shared Printer in DRO Server or Hotsite Envoironment;DST/CO
+26;Printer - Okidata - Standalone to Computer Setup;DST/CO
+27;Printer - Okidata - Toner Low Resolution;DST/CO
+28;Printer - Xerox/Dell - Networked Printer in DRO Server Environment;DST/CO
+29;Printer - Xerox/Dell - Physical Setup;DST/CO
+30;Printer - Xerox/Dell - Shared Printer in Laptop Server Environment;DST/CO
+31;Help Desk - Issue and Receive Equipment Requests;DST/CS
+32;Help Desk - Log Troubleshooting Issues and assign to DST Activity;DST/CS
+33;Inventory Control - FedEx Shipping Online;DST/CS
+34;Inventory Control - Packing Cell Phones;DST/CS
+35;Inventory Control - Packing Computers;DST/CS
+36;Inventory Control - Packing Okidata Printer;DST/CS
+37;Inventory Control - Packing Xerox/Dell Printer;DST/CS
+38;Inventory Control - Receiving Equipment from FedEx;DST/CS
+39;Inventory Control - Report Broken or Damaged Equipment;DST/CS
+40;Inventory Control - Report Equipment Lost/Theft;DST/CS
+41;Inventory Control - TIMS - 1 Startup;DST/CS
+42;Inventory Control - TIMS - 2 Import New Equipment;DST/CS
+43;Inventory Control - TIMS - 3 Issuing and Returning Equipment;DST/CS
+44;Inventory Control - TIMS - 4 FedEx Shipping;DST/CS
+45;Inventory Control - TIMS - 5 Daily Backup;DST/CS
+46;Inventory Control - TIMS - 6 Data Entry;DST/CS
+47;Inventory Control - TIMS - 7 Creating Reports;DST/CS
+48;Knowledge of DTP Location;DST/CS
+49;Knowledge of Location of the How To/Help Sheets for Users;DST/CS
+50;Knowledge of Responsibility/Guidelines Location;DST/CS
+51;Resource Management - Create Table of Organization and Update;DST/CS
+52;Resource Management - DRO Phone Directory Create and Update;DST/CS
+53;Resource Management - Staff Days Off;DST/CS
+54;Resource Management - TIMS Personnel Input;DST/CS
+55;24 Port Switch - Installation;DST/NT
+56;24 Port Switch - Packing;DST/NT
+57;CAT5 Cable - Create a CAT5 Crossover Cable;DST/NT
+58;CAT5 Cable - Create a CAT5 Straight Cable;DST/NT
+59;CAT5 Cable - Labeling Cable Correctly;DST/NT
+60;CAT5 Cable - Running Cable Correctly;DST/NT
+61;Clinometer - How to use the Clinometer;DST/NT
+62;Cradle Point Setup;DST/NT
+63;IP Conference Phone - Setup;DST/NT
+64;Knowledge of DTP Location;DST/NT
+65;Knowledge of Responsibility/Guidelines Location;DST/NT
+66;Pix Setup;DST/NT
+67;WAP - Ruckus - Setup;DST/NT
+68;SatMaster - How to operate the program;DST/NT
+69;Setup Pix Server;DST/NT
+70;Site Survey - How to complete the survey and worksheet;DST/NT
+71;ViaSat - Assembly;DST/NT
+72;ViaSat - Dis-Assembly and Packing;DST/NT
+73;ViaSat - RF Safety;DST/NT
+74;VOIP Phones - Wired - Activation;DST/NT
+75;VOIP Phones - Wired - Packing;DST/NT
+76;VOIP Phones - Wired - Setup;DST/NT
+77;WAP - Ubiquity - Setup;DST/NT

@@ -1,0 +1,54 @@
+Function;Function Name;Function Order;Group;Group Name;Group Order;Budget Name;Budget Order
+OM/OPS;OPERATIONS;3;OM;Operations;0;;
+OM/FIN;FINANCE;7;OM;Finance;0;;
+Log;LOG;0;LOG;Logistics;41;;
+RES/DAT;Disaster Action Team;1;RES;Response;39;;
+RES/DP;Dispatch;2;RES;Response;39;;
+REC/CRP;Casework and Recovery Planning;1;REC;Recovery;33;;
+REC/CMR;Community Recovey;2;REC;Recovery;33;;
+REC/SYS;Systems;3;REC;Recovery;33;;
+IP;Information & Planning;0;IP;Information & Planning;51;;
+ER;External Relations;0;ER;External Relations;61;;
+ER/APAT;Advanced Public Affairs Team;1;ER;External Relations;61;;
+FIN;Finance;0;FIN;Finance;71;;
+Log/NFO;National Fleet Operations;4;LOG;Logistics;41;LOG/DST/Staff (29);29
+OM;OPERATIONS MANAGEMENT;1;OM;Operations Management;0;OM/FSI/ID/Finance (28);28
+REC;Recovery;0;REC;Individual Client Services;33;;
+IDC/DI;Disability Integration;1;IDC;Individual Client Services;32;Client Casework (22);22
+IDC/DHS;Disaster Health Services;2;IDC;Individual Client Services;32;Health Services (23);23
+IDC/DMH;Disaster Mental Health;3;IDC;Individual Client Services;32;Mental Health (24);24
+IDC/DSC;Disaster Spiritual Care;4;IDC;Individual Client Services;32;;
+MC;Mass Care;0;MC;Mass Care;31;Mass Care (21);21
+MC/SH;Sheltering;2;MC;Mass Care;31;Mass Care (21);21
+MC/FF;Feeding;1;MC;Mass Care;31;Mass Care (21);21
+MC/DES;Distribution of Emergency Supplies;3;MC;Mass Care;31;Mass Care (21);21
+MC/REU;Reunification;4;MC;Mass Care;31;Safe & Well (25);25
+OM/ER;EXTERNAL RELATIONS;6;OM;External Relations;0;;
+ER/GO;Government Operations;4;ER;External Relations;61;DA/LG/CPS (26);26
+ER/CEP;Community Engagement & Partnerships;2;ER;External Relations;61;DA/LG/CPS (26);26
+ER/PA;Public Affairs;5;ER;External Relations;61;FUNDRAISING (90);90
+ER/FR;Fund Raising;3;ER;External Relations;61;Fund Raising (80);80
+OM/IP;INFORMATION & PLANNING;5;OM;Information & Planning;0;OM/FSI/ID/Finance (28);28
+IP/DA;Disaster Assessment;1;IP;Information & Planning;51;OM/FSI/ID/Finance (28);28
+IP/ID;Information Dissemination;3;IP;Information & Planning;51;OM/FSI/ID/Finance (28);28
+IP/FSI;Financial & Statistical Information;2;IP;Information & Planning;51;OM/FSI/ID/Finance (28);28
+IP/SU;Situation Unit;4;IP;Information & Planning;51;OM/FSI/ID/Finance (28);28
+OM/LOG;LOGISTICS;4;OM;Logistics;0;LOG/DST/Staff (29);29
+Log/FAC;Facilities;1;LOG;Logistics;41;LOG/DST/Staff (29);29
+Log/IKD;In-Kind Donations;2;LOG;Logistics;41;LOG/DST/Staff (29);29
+Log/WHS;Warehousing;8;LOG;Logistics;41;LOG/DST/Staff (29);29
+Log/TRA;Transportation;7;LOG;Logistics;41;LOG/DST/Staff (29);29
+Log/LSAP;Life Safety & Asset Protection;3;LOG;Logistics;41;LOG/DST/Staff (29);29
+Log/PRO;Procurement;5;LOG;Logistics;41;LOG/DST/Staff (29);29
+Log/SUP;Supply;6;LOG;Logistics;41;LOG/DST/Staff (29);29
+SS;Staff Services;0;SS;Staff Services;43;LOG/DST/Staff (29);29
+SS/LCV;Local Community Volunteers;1;SS;Staff Services;43;LOG/DST/Staff (29);29
+SS/SPS;Staff Planning & Support;2;SS;Staff Services;43;LOG/DST/Staff (29);29
+SS/SR;Staff Relations;3;SS;Staff Services;43;LOG/DST/Staff (29);29
+SS/TR;Training;4;SS;Staff Services;43;LOG/DST/Staff (29);29
+DST;Disaster Services Technology;0;DST;Disaster Services Technology;42;LOG/DST/Staff (29);29
+DST/CO;Computer Operations;2;DST;Disaster Services Technology;42;LOG/DST/Staff (29);29
+DST/CM;Communications;1;DST;Disaster Services Technology;42;LOG/DST/Staff (29);29
+DST/NT;Networking;4;DST;Disaster Services Technology;42;LOG/DST/Staff (29);29
+DST/CS;Customer Service;3;DST;Disaster Services Technology;42;LOG/DST/Staff (29);29
+CHAP;Local Chapter;0;CHP;Local Chapter(s);99;;

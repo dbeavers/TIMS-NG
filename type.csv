@@ -1,0 +1,170 @@
+ID;Type;Long Title;Box Label;Data Format;Case;NameReq;UseTelephone;Orphanable;Length;Width;Depth;Weight;DSTActivity;Container
+96;ANT-AUB;Antenna: UHF Beam;AUB-nnnn;;0;0;0;0;;;;;CM;
+98;ANT-PARTS;Antenna: Parts;;;0;0;0;0;;;;;CM;
+97;ANTENNA;Antenna: Miscellaneous;;;0;0;0;0;;;;;CM;
+99;BAR;Barcode Reader;;;0;0;0;0;;;;;CO;
+100;BGAN;Satellite Data Terminal;BGAN-nnnn;BGAN-nnnn;0;0;0;0;;;;;CM;
+101;CAM-WEB;USB Webcam;WEB-nnnn;CAM-nn;0;-1;0;0;;;;;CO;
+102;CARD;Credit/Mission/Fuel Card;;nnnn nnnn nnnn nnnn;0;-1;0;0;;;;;CS;
+1;CASE;Miscellaneous Case;;CASE-;-1;0;0;0;;;;;CS;
+2;CASE-AAK;Antenna Analyzer Kit;AAK-nnnn;AAK-;-1;0;0;0;20;16;8;16;CM;PELICAN 1520
+3;CASE-ADM;Tube: Amateur Dual Band Mobile Antenna;ADM-nnnn;ADM-;-1;0;0;0;;;;3;CM;TUBE
+4;CASE-ADV;Antenna: Amateur Dual Band Vertical 2PK;ADV-nnnn;ADV-;-1;0;0;0;;;;26;CM;CASE
+5;CASE-ALB;Tube: Low Band Base Antenna;ALB-nnnn;ALB-;-1;0;0;0;;;;8;CM;TUBE
+6;CASE-ALM;Tube: Low Band Mobile Antenna;ALM-nnnn;ALM-;-1;0;0;0;;;;5;CM;TUBE
+7;CASE-ANTA;Antenna: Amateur Mobile VHF/UHF;ANTA-nnnn;ANTA-;-1;0;0;0;45;16;7;10;CM;PELICAN 1700
+8;CASE-ANTL;Antenna: Low Band Mobile (?);ANTL-nnnn;ANTL-;-1;0;0;0;45;16;7;10;CM;PELICAN 1720
+9;CASE-ARK;Radio: Amatuer Mobile;ARK-nnnn;ARK-;-1;0;0;0;25;20;9;37;CM;PELICAN 1600
+10;CASE-ATC;AT&T Cell Phone - 10PK;ATTC-nnnn;ATTC;-1;0;0;0;20;16;8;23;CM;PELICAN 1520
+11;CASE-ATERP;AT&T Cell Phone - 50PK;AERP-nnnn;AERP-;-1;0;0;0;25;20;14;55;CM;PELICAN 1620
+12;CASE-ATH2;AT&T  Hot Spot - 2PK;AIHS-nnnn;AIHS-;-1;0;0;0;10;8;5;4;NT;PELICAN 1150
+13;CASE-ATH5;AT&T  Hot Spot - 5PK;AHS5-nnnn;AHS5-;-1;0;0;0;11;10;5;4;NT;PELICAN 1200
+14;CASE-ATHS;AT&T Hot Spot - 10PK;AHS-nnnn;AHS-;-1;0;0;0;20;16;8;16;NT;PELICAN 1520
+15;CASE-ATT;AT&T Smartphone - 10PK;ATT-nnnn;ATT-;-1;0;0;0;20;16;8;14;CM;PELICAN 1520
+16;CASE-AUB;Antenna: UHF Beam;AUB-nnnn;AUB-;-1;0;0;0;39;16;7;21;CM;PELICAN 1700
+17;CASE-AUV;Antenna: UHF Vertical Kit;AUV-nnnn;AUV-;-1;0;0;0;;;;;CM;
+18;CASE-AVV;Antenna: VHF Vertical Kit;AVV-nnnn;AVV-;-1;0;0;0;;;;;CM;
+19;CASE-BDA;Radio: Cell Phone Amplifier Kit;BDA-nnnn;BDA-nnnn;-1;0;0;0;25;20;14;39;CM;PELICAN 1650
+20;CASE-BDG;Birddog Satellite Finder;BDG-nnnn;BDG-;-1;0;0;0;14;12;6;7;NT;PELICAN 1400
+21;CASE-BGAN;Satellite Data Terminal Kit;BGAN-nnnn;BGAN-;-1;0;0;0;20;16;8;99;NT;PELICAN 1520
+22;CASE-BHHA;Business Band Handheld - 10PK;BHHA-nnnn;BHHA-;-1;0;0;0;19;15;7;18;CM;PELICAN 1520
+23;CASE-BHHB;Business Band Chargers - 10PK;BHHB-nnnn;BHHB-;-1;0;0;0;19;15;7;12;CM;PELICAN 1500
+24;CASE-BLU;Connectivity Box;SVR-nn;SVR-;-1;0;0;0;28;27;18;110;CO;BLUE CASE
+25;CASE-BOX;Cardboard Box (for miscellaneous items);;BOX-;-1;0;0;0;;;;;CS;
+26;CASE-CBL;Cable Kit;CBL-nnnn;CBL-;-1;0;0;0;32;23;19;148;NT;PELICAN 1660
+27;CASE-COFFIN;Hands On  Supplies;COM-nnnn;COM-;-1;0;0;0;72;24;20;99;CM;LONG RED HARDIGG
+28;CASE-CPK;Cradlepoint Kit;CPK-nnn;CPK-;-1;0;0;0;17;14;5;6;NT;PELICAN 1400
+29;CASE-DRCN;DRCN Case;;;-1;0;0;0;;;;;NT;HARDIGG CASE
+30;CASE-DROS;DRO Server Laptop Case;DROS-nnnn;DROS-;-1;0;0;0;25;20;9;25;CO;PELICAN 1600
+31;CASE-DST;DST Supply Kit;DST-nnnn;DST-;-1;0;0;0;32;23;19;140;CS;PELICAN 1660
+32;CASE-EXT;Extension Cord Kit;EXT-nnn;EXT-;-1;0;0;0;25;20;14;76;NT;PELICAN 1620
+33;CASE-FBL;Radio: Low Band Base;FBL-nnnn;FBL-;-1;0;0;0;25;20;9;30;CM;PELICAN 1600
+34;CASE-FIP;FAX: IP;FIP-nnnn;FIP-;-1;0;0;0;32;23;19;68;CM;PELICAN 370
+35;CASE-GALT;Samsung Galaxy Tablet Kit;GALT-nnnn;GALT-;-1;0;0;0;20;16;8;;CO;PELICAN
+36;CASE-GPS;GPS Navigation Kit;GPS-nnnn;GPS-;-1;0;0;0;;;;;CS;
+37;CASE-GTU;Global Tracker Kit;GTU-nnnn;GTU-;-1;0;0;0;21;17;9;33;CM;PELICAN 1550
+38;CASE-HF;HF Radio Kit;HFR-nnnn;HFR-;-1;0;0;0;25;20;14;60;CM;PELICAN 1650
+39;CASE-IPP;IP Phone Kit;IPP-nnnn;IPP-;-1;0;0;0;69;33;16;69;NT;HARDIGG iM2975
+40;CASE-IR3;Iridium Satellite Phone 3PK;IR3-nnnn;IR3-;-1;0;0;0;20;16;8;14;CM;PELICAN 1520
+41;CASE-IRI;Iridium Satellite Phone;IRI-nnnn;IRI-;-1;0;0;0;14;12;6;5;CM;PELICAN 1520
+42;CASE-ISP;IP Speaker Phone Kit;ISP-nnnn;ISP-;-1;0;0;0;21;17;9;14;NT;PELICAN 1520
+43;CASE-KB9;Keyboard 9 PK;KB9-nnn;KB9-;-1;0;0;0;32;23;19;41;CO;PELICAN 1620
+44;CASE-LBL;Label Maker Kit;LBL-nnnn;LBL-;-1;0;0;0;11;10;5;2;CM;PELICAN 1200
+45;CASE-LBM;Radio: Low Band Mobile;LBM-nnnn;LBM-;-1;-1;0;0;14;12;6;12;CM;PELICAN 1400
+46;CASE-LE54;Dell E5400 Laptop - 6PK;LE54-nnnn;LE54-;-1;0;0;0;25;20;14;69;CO;PELICAN 1620
+47;CASE-LE547;Dell E5470 Laptop - 6PK;LE547-nnnn;LE547-;-1;0;0;0;25;20;14;56;CO;PELICAN 1620
+48;CASE-LE548;Dell E5470 Laptop - 6PK;LE548-nnnn;LE548-;-1;0;0;0;25;20;14;55;CO;PELICAN 1620
+49;CASE-LE84;HP Elitebook 8400 Laptop - 6PK;LE84-nnnn;LE84-;-1;0;0;0;25;20;14;57;CO;PELICAN 1620
+50;CASE-LHH;Radio: Low Band Handheld 10PK;LHH-nnnn;LHH-;-1;0;0;0;21;17;9;29;CM;PELICAN
+51;CASE-LT45;Lenovo T450 Laptop - 6PK;LT45-nnnn;LT45-;-1;0;0;0;25;20;14;69;CO;PELICAN 1620
+52;CASE-MCBL;Mini Cable Kit;MCBL-nnnn;MCBL-;-1;0;0;0;25;20;14;69;NT;PELICAN 1620
+53;CASE-MDST;Mini DST Kit;MDST-nnnn;MDST-;-1;0;0;0;25;20;14;69;CS;PELICAN 1620
+54;CASE-MPKD;Printer: Multifunction Kit - DELL;DMPK-nnnn;DMPK-;-1;0;0;0;27;27;26;80;CO;PELICAN 370
+55;CASE-MPKX;Printer: Multifunction Kit - XEROX;XMPK-nnnn;XMPK-;-1;0;0;0;27;27;26;74;CO;PELICAN 370
+56;CASE-MSAT;Mobile Satellite Telephone Kit;MSAT-nnnn;MSAT-;-1;0;0;0;25;20;9;50;CM;PELICAN
+57;CASE-NFO;National Fleet Operations - TOOLS;;NFO?-;-1;0;0;0;32;23;19;149;CS;PELICAN 1660
+58;CASE-NS;Network Switch Kit;USK-nnnn;USK-;-1;0;0;0;25;20;9;25;NT;PELICAN 1600
+59;CASE-PIX;Firewall Kit;PIX-nnn;PIX-;-1;0;0;0;20;16;8;12;NT;PELICAN 1520
+60;CASE-PLT;Plotter Kit;PLK-nnnn;PLK-nn;-1;0;0;0;;;;;CO;
+61;CASE-POKI;Printer: OKIDATA Kit;POKI-nnnn;POKI-;-1;0;0;0;25;20;14;54;CO;PELICAN 1620
+62;CASE-PROJ;Projector Kit;DDP-nnnn;DDP-;-1;0;0;0;25;20;9;20;CS;PELICAN 1600
+63;CASE-PSK;Power Strip - 30PK;PSK-nnn;PSK-;-1;0;0;0;25;20;9;80;NT;PELICAN 1600
+64;CASE-PSM;Power Strip Multi Pack;PSM-nnn;PSM-;-1;0;0;0;25;20;14;80;NT;PELICAN 1620
+65;CASE-RAK;Radio Analyzer Kit;RAK-nnnn;RAK-;-1;0;0;0;20;16;8;16;CM;PELICAN 1520
+66;CASE-RBK;Radio Broadcast Console Kit;LB-RBK-nnn;LB-RBK-;-1;0;0;0;31;21;12;99;CM;P1650
+67;CASE-RCK;Radio Cable Kit (RG8);RCK-nnnn;RCK-;-1;0;0;0;25;20;14;80;CM;PELICAN 1620
+68;CASE-RG6;ViaSat Cable;RG6-nnnn;RG6-;-1;0;0;0;24;20;9;25;NT;PELICAN 1600
+69;CASE-RPK;Radio Programming Kit;RPK-nnnn;RPK-;-1;0;0;0;25;20;9;99;CM;PELICAN 1550
+70;CASE-RTK;Radio Tool Kit;RTK-nnnn;RTK-;-1;0;0;0;32;23;19;102;CM;PELICAN 1660
+71;CASE-SCK;Server Connectivity Kit;SCK-nnnn;SCK-;-1;0;0;0;25;20;9;25;CO;PELICAN 1600
+72;CASE-SK;Self Registration Gun Kit;SK-nnn;SK-;-1;0;0;0;25;20;9;99;CS;PELICAN 1600
+73;CASE-SWR;Radio Analyzer Kit;SWR-nnnn;SWR;-1;0;0;0;20;16;8;16;CM;PELICAN 1520
+74;CASE-TLK;DST Tool Kit;TLK-nnnn;TLK-;-1;0;0;0;21;17;11;46;CS;BLACK CASE
+75;CASE-UHB;Radio: UHH Base Station;UHB-nnnn;UHB-;-1;0;0;;20;16;8;10;CM;PELICAN 1520
+76;CASE-UHH;Radio: UHF Handheld - 10PK;UHH-nnnn;UHH-;-1;0;0;0;19;15;7;19;CM;PELICAN 1550
+77;CASE-UHM;Radio: UHF Mobile;UHM-nnnn;UHM-;-1;-1;0;0;14;12;6;13;CM;PELICAN 1400
+78;CASE-USB;USB Kit;USB-nnnnnn;USB-;-1;0;0;0;10;8;5;2;CO;PELICAN 1150
+79;CASE-VIASAT;ViaSat Terminal;VIA-nnnn;VIA-;-1;0;0;0;38;27;14;85;NT;PELICAN 1730
+80;CASE-VSAT;VSAT;VSAT-nnn?;VSAT-;-1;0;0;0;;;;;NT;Various HARDIGG(s)
+81;CASE-VZERP;Verizon Cell Phone - 50PK;VERP-nnnn;VERP-;-1;0;0;0;25;20;14;55;CM;PELICAN 1620
+82;CASE-VZH5;Verizon Hot Spot - 5PK;VHS5-nnnn;VHS5-;-1;0;0;0;11;10;5;4;NT;PELICAN 1200
+83;CASE-VZHS;Verizon Hot Spot - 10PK;VHS-nnnn;VHS-;-1;0;0;0;20;16;8;20;NT;PELICAN 1520
+84;CASE-VZN;Verizon Smartphone - 10PK;VZN-nnnn;VZN-;-1;0;0;0;20;16;8;14;CM;PELICAN 1520
+85;CASE-VZNC;Verizon Cell Phone-  10PK;VZNC-nnnn;VZNC-;-1;0;0;0;20;16;8;15;CM;PELICAN 1520
+86;CASE-WEBCAM;USB Webcam Kit;WEB-nnnn;WEB-;-1;0;0;0;14;12;6;5;CO;PELICAN 1400
+87;CASE-WIP;Wireless IP Phone Kit;WIP-nnnn;WIP-;-1;0;0;0;25;20;9;35;NT;PELICAN 1600
+88;CASE-WMD;WMD Vest Kit;WMD-nnnn;WMD-;-1;0;0;0;32;23;19;99;CS;PELICAN 1660
+89;CASE-WNK;Wireless Network Kit;WNK-nnnn;WNK-;-1;0;0;0;25;20;9;22;NT;PELICAN 1600
+90;CASE-WNKP;PEP Wireless Network Kit;PEP-nnnn;PEP-;-1;0;0;0;11;10;5;4;NT;PELICAN 1200
+91;CASE-WNKR;RUCKUS Wireless Network Kit;WNKR-nnnn;WNKR-;-1;0;0;0;25;20;9;16;NT;PELICAN 1600
+92;CASE-WNKU;UBIQUITI Wireless Network Kit;WNKU-nnnn;WNKU-;-1;0;0;0;20;16;8;11;NT;PELICAN 1520
+93;CASE-WNPK;Public Wireless Kit;PWK-nnnn;PWK-;-1;0;0;0;25;20;9;22;NT;PELICAN 1600
+94;CASE-WXR;Weather Radio Kit;WXR-nnnn;WXR-;-1;0;0;0;20;16;8;16;CM;PELICAN 1520
+95;CASE-XMC;XM Radio Case;XMC-nnnn;XMC-;-1;0;0;0;10;8;5;3;CM;PELICAN 1150
+103;CELL-A;Cell Phone: AT&T;ATTC-nnnn;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+104;CELL-AS;Smartphone: AT&T;ATT-nnnn;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+105;CELL-O;Cell Phone: Other;;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+106;CELL-S;Cell Phone: Sprint;;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+107;CELL-T;Cell Phone: T-Mobile;;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+108;CELL-V;Cell Phone: Verizon;VZNC-nnnn;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+109;CELL-VS;Smartphone: Verizon;VZN-nnnn;nnn-nnn-nnnn;0;-1;-1;-1;;;;;CM;
+110;FIP;Fax Machine: IP;FIP-nnnn;;0;0;0;0;;;;;NT;
+111;GPS;GPS Navigation System;;;0;-1;0;-1;;;;;CS;
+112;HS-A;Mobile Hotspot: AT&T;AHS-nnnn;nnn-nnn-nnnn;0;-1;-1;-1;;;;;NT;
+113;HS-O;Mobile Hotspot: Other;;nnn-nnn-nnnn;0;-1;-1;-1;;;;;NT;
+114;HS-V;Mobile Hotspot: Verizon;VHS-nnnn;nnn-nnn-nnnn;0;-1;-1;-1;;;;;NT;
+115;LT;Laptop: Any Manufacturer;;;0;0;0;-1;;;;;CO;
+116;LT-E5400;Laptop: Dell E5400;LE54-nnnn;E54-nnnn;0;0;0;-1;;;;;CO;
+117;LT-E5470;Laptop: Dell E5470;;E547-nnnn;0;0;0;-1;;;;;CO;
+118;LT-E5480;Laptop: Dell E5480;;E548-nnnn;0;0;0;-1;;;;;CO;
+119;LT-E8400;Laptop: HP Elitebook 8400;;E84-nnnn;0;0;0;-1;;;;;CO;
+120;LT-T450;Laptop: Lenovo T450;;T45-nnnn;0;0;0;-1;;;;;CO;
+121;MISC;Miscellaneous Part;;;0;0;0;0;;;;;CS;
+122;MISC-RCM;Miscellaneous Communications Equipment;;;0;0;0;0;;;;;CM;
+123;MISC-RCO;Miscellaneous Computer Equipment;;;0;0;0;0;;;;;CO;
+124;MISC-RNT;Miscellaneous Networking Equipment;;;0;0;0;0;;;;;NT;
+125;PBP;Portable Battery Pack (Cell Charger);;;0;-1;0;0;;;;;CM;
+126;PIX;Private Internet eXchange Firewall;PIX-nnnn;;0;0;0;0;;;;;NT;
+127;PRN-MF;Multifunction Printer/Scanner/FAX;?MPK-nnnn;PMF-nnnnnn;0;0;0;0;;;;;CO;
+128;PRN-OKI;Okidata Laser Printer;POKI-nnnn;POKI-nnnn;0;0;0;0;;;;;CO;
+129;PRN-PLT;Plotter;;PLT-nn;0;0;0;0;;;;;CO;
+130;PROJ;Projector;;;0;0;0;0;;;;;CS;
+131;PWR;DC Power Supply;PSn-nnnn;nnnnnn;0;0;0;0;;;;;CM;
+132;RAD-AM;Radio: Amateur;ARK-nnnn;;0;0;0;0;;;;;CM;
+133;RAD-BHH;Radio: Business Band Handheld;BHH-nnnn;;0;-1;0;0;;;;;CM;
+134;RAD-FBL;Radio: Low Band Base;;;0;0;0;0;;;;;CM;
+135;RAD-HF;Radio: HF;HFR-nnnn;;0;0;0;0;;;;;CM;
+137;RAD-LBM;Radio: Low Band Mobile;LBM-nnnn;;0;-1;0;0;;;;;CM;
+138;RAD-LHH;Radio: Low Band Handheld;LHH-nnnn;;0;-1;0;0;;;;;CM;
+139;RAD-RPT;Radio: Repeater;;;0;0;0;0;;;;;CM;
+140;RAD-UHH;Radio: UHF Handheld;UHH-nnnn;;0;-1;0;0;;;;;CM;
+141;RAD-UHM;Radio: UHF Mobile;UHM-nnnn;;0;-1;0;0;;;;;CM;
+142;RAD-WXR;Radio: Weather;WXR-nnnn;nnnnnn;0;0;0;0;;;;;CM;
+143;RAD-XM;Radio: XM Satellite;;;0;0;0;0;;;;;CM;
+136;RADIO;Radio: Miscellaneous;;;0;0;0;0;;;;;CM;
+144;RTR;Router;;;0;0;0;0;;;;;NT;
+145;RTR-BB;Router - Broadband;;;0;0;0;0;;;;;NT;
+146;RTR-CELL;Router - Cellular;;CR-nnnnnn;0;0;0;0;;;;;NT;
+147;RTR-DSL;Router - DSL;;;0;0;0;0;;;;;NT;
+148;SAT-IR;Iridium Satellite Phone;IRn-nnnn;nnn-nnn-nnnn;0;-1;-1;0;;;;;CM;
+149;SAT-MSAT;SkyTerra (aka MSAT) Satellite Phone;MSAT-nnnn;nnn-nnn-nnnn;0;-1;-1;0;;;;;CM;
+150;SCANNER;Page Scanner;;;0;0;0;0;;;;;CO;
+151;SERV;DRO Server;;;0;0;0;0;;;;;CO;
+152;SIM;Subscriber Identity Module;;;0;0;-1;0;;;;;CS;
+153;SW;Ethernet Switch;;;0;0;0;0;;;;;NT;
+154;SW-24;24 Port Ethernet Switch;USK-nnnn;USKS-nnnnnn;0;0;0;0;;;;;NT;
+155;TABLET;Samsung Galaxy Tablet;GALT-nnnn;GAL-nnnn;0;-1;0;0;;;;;CO;
+156;TESTEQ;Test Equipment;;;0;0;0;0;;;;;CS;
+157;TRACKER;Satelllite Tracker;;;0;0;0;-1;;;;;CS;
+158;UPS;Uninterruptable Power Supply;;;0;0;0;0;;;;;CO;
+159;USB;USB Stick MultiPack;USB-nnnnnn;USB-nnnnnn;0;0;0;0;;;;;CO;
+160;VEST;Weapons of Mass Destruction Vest;WMD-nnnn;;0;0;0;0;;;;;CS;
+161;VoIP-ATA;IP to Analog Phone Adapter;XMPK-nnnn;nnn-nnn-nnnn;0;0;-1;0;;;;;NT;
+162;VoIP-PHN;IP Phone;IPP-nnnn;nnn-nnn-nnnn;0;0;-1;0;;;;;NT;
+163;VoIP-SP;IP Speaker Phone;ISP-nnnn;nnn-nnn-nnnn;0;0;-1;0;;;;;NT;
+164;VoIP-W;Wireless IP Phone;WIP-nnnn;nnn-nnn-nnnn;0;-1;-1;0;;;;;NT;
+165;VSAT;VSAT Parts;VSAT-nnn?;;0;0;0;0;;;;;NT;
+166;WAP;Wireless Access Point;WNK-nnnn;DSWAP-nnnnn;0;0;0;0;;;;;NT;
+167;WBC-A;Wireless Broadband Card: AT&T;AWC-nnnn;nnn-nnn-nnnn;0;-1;-1;0;;;;;NT;
+168;WBC-V;Wireless Broadband Card: Verizon;VWC-nnnn;nnn-nnn-nnnn;0;-1;-1;0;;;;;NT;
+169;WPS;Wireless Print Server;WNK-nnnn;WPS-nnn;0;0;0;0;;;;;NT;

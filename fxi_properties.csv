@@ -1,0 +1,16 @@
+Property;Value;Description
+FSM APPLICATION;C:\Program Files (x86)\FedEx\ShipManager\BIN\FedEx.Gsm.Cafe.ApplicationEngine.Gui.exe;Filename of the Ship Manager application itself (copy from Ship Manager shortcut)
+OTHER1 EMAIL;DST@redcross.org;eMail address where a COPY of  Shipment Notificatons go
+OTHER2 EMAIL;[dr]DST-CS2@redcross.org;eMail address where a COPY of  Shipment Notificatons go
+PRINTER-LABELS;;Printer where FedEx Ship Manager will initially be configured (1st time it runs) to print LABELS.
+PRINTER-REPORTS;;Printer where FedEx Ship Manager will initially be configured (1st time it runs) to print REPORTS.
+RECIPIENT EMAIL;DSMCNotify@redcross.org;eMail address for Recipient Shipment Notifications
+SENDER ACCOUNT;;FedEx Account Number of Shipper.  Used in configuring FedEx Ship Manager.
+SENDER ADDRESS2;;Second Address line for Shipper
+SENDER CONTACT;;Shipper's Contact Name.  Used in configuring FedEx Ship Manager.
+SENDER EMAIL;[dr]DST-CS1@redcross.org;eMail address for Sender Shipment Notifications
+SENDER TELEPHONE;;Shipper's Contact Telephone Number.  Used in configuring FedEx Ship Manager.
+THIRD PARTY ACCOUNT;770511704;FedEx Account Number Third Party billing
+TIMS FEDEX DB;C:\Applications\FedEx Ship Manager Data.mdb;Filename of the TIMS to FedEx database, intermediary between TIMS and Ship Manager
+XML-FSM CONFIGURATION;C:\ProgramData\Fedex\FSM\FSMConfig.xml;Filename of the file where Ship Manager keeps its configuration information
+XML-FSM REGISTRATION;C:\ProgramData\FedEx\FSM\BIN\Registration.xml;Filename of the file Ship Manager uses when it registers itself (first time it runs)

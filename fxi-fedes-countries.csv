@@ -1,0 +1,8 @@
+Index;Country;Abbreviation;International
+1;United States;US;false
+2;American Samoa;AS;true
+3;Guam;GU;true
+4;Virgin Islands;VI;true
+5;Micronesia;FM;true
+6;Marshall Islands;MH;true
+7;Northern Mariana Islands;MP;true

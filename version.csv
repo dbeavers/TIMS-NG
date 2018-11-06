@@ -1,0 +1,2 @@
+Version;Version Date;Previous Update;VersionNotes
+v14.941B;2018-07-04 00:00:00;2018-07-04 00:00:00;"b=Added code so Sandbox version can be Site TIMS. Added DSTContacteMail field to LOCATION tabe.  Revised forms: 'Location Dialog' & 'rtv_ShipmentLabelDialog'; Report: '$Return Label Request'.  Added records to CREDENTIALS, for DST Training and common ARC Classes (i.e. ConOps, DST101, HOT).  Changed form 'Staff Input' so Specialty Track does not display; 'StaffTraining_Dialog' so Mentor field is labelled 'Coach'"

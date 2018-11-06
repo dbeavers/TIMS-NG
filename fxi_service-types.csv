@@ -1,0 +1,9 @@
+Type;Description;HAL Available;Saturday Delivery Available;Saturday Pickup Available
+1;FedEx Priority Overnight;true;true;true
+3;FedEx 2Day;true;true;true
+5;FedEx Standard Overnight;true;false;true
+6;FedEx First Overnight;false;false;true
+20;FedEx Express Saver;true;true;true
+70;FedEx 1Day Freight;true;true;false
+80;FedEx 2Day Freight;true;true;false
+83;FedEx 3Day Freight;true;false;false

@@ -1,0 +1,3 @@
+VehicleID;KeyTag;Plate;PlateST;Make;Model;ColorID;OnOperation;OutOfService;RentalLocation;vhCreatedAt;vhCreatedBy
+1;64258361;KCQ5433;MN;Dodge;Caravan;4;-1;0;Tulsa Airport;2018-08-22 13:25:32;SNDBX
+2;60609555;123EU8;TN;Ford;Explorer;30;-1;0;Oklahoma City Airpor;2018-08-22 13:25:32;SNDBX

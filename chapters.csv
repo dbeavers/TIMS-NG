@@ -1,0 +1,266 @@
+Chapter Code;Name;City;State;EntityType;RegionCode
+0;NHQ;Washington;DC;R;00R00
+1019;American Red Cross serving Mid Alabama;Hoover;AL;R;01R04
+1176;American Red Cross serving East Alabama;Opelika;AL;C;01R04
+1192;American Red Cross serving North Alabama;Huntsville;AL;C;01R04
+1208;American Red Cross serving South Alabama;Mobile;AL;C;01R04
+1216;American Red Cross serving Central Alabama;Montgomery;AL;C;01R04
+1288;American Red Cross serving West Alabama;Northport;AL;C;01R04
+2012;American Red Cross serving Alaska;Anchorage;AK;R;02R04
+3008;American Red Cross of Greater Phoenix;Phoenix;AZ;R;03R04
+3049;American Red Cross of Northern AZ;Flagstaff;AZ;C;03R04
+3060;American Red Cross of Southern AZ;Tucson;AZ;C;03R04
+4036;American Red Cross serving Northeast AR;Blytheville;AR;C;36R04
+4244;American Red Cross serving Greater AR;Little Rock;AR;C;36R04
+4304;American Red Cross serving Northwest AR;Rogers;AR;C;36R04
+5022;American Red Cross of Northern Valleys;Palmdale;CA;C;05R12
+5052;American Red Cross of Northeastern California;Yuba City;CA;C;05R20
+5058;American Red Cross of the Central Coast;Carmel;CA;C;05R28
+5112;American Red Cross of Central Valley;Fresno;CA;C;05R04
+5132;ARC serving Greater Long Beach, Rio Hondo and South Bay;Long Beach;CA;C;05R12
+5147;American Red Cross of Kern County;Bakersfield;CA;C;05R04
+5180;American Red Cross of Los Angeles;Los Angeles;CA;R;05R12
+5264;American Red Cross of Orange County;Santa Ana;CA;R;05R32
+5280;American Red Cross of the San Gabriel Pomona Valley;Pasadena;CA;C;05R12
+5310;American Red Cross of the California Northwest;Santa Rosa;CA;C;05R28
+5324;American Red Cross of Riverside County;Riverside;CA;C;05R32
+5328;American Red Cross of Coachella Valley and Morongo Basin;Palm Desert;CA;C;05R32
+5332;American Red Cross of Sierra-Delta;Sacramento;CA;R;05R20
+5344;American Red Cross serving San Bernardino County;San Bernadino;CA;C;05R32
+5348;American Red Cross of San Diego and Imperial Counties;San Diego;CA;R;05R24
+5376;American Red Cross of the Pacific Coast;Santa Barbara;CA;C;05R04
+5378;American Red Cross of the Silicon Valley;San Jose;CA;C;05R28
+5388;American Red Cross of Santa Monica Bay;Santa Monica;CA;C;05R12
+5468;American Red Cross of Ventura County;Camarillo;CA;R;05R04
+5503;American Red Cross of the Bay Area;San Francisco;CA;R;05R28
+6144;American Red Cross of Northern Colorado;Ft. Collins;CO;C;06R08
+6164;American Red Cross of Western Colorado;Grand Junction;CO;C;06R08
+6166;American Red Cross of the Mile High Area;Denver;CO;R;06R08
+6204;American Red Cross of Southeastern Colorado;Colorado Springs;CO;C;06R08
+7038;American Red Cross of Connecticut;Farmington;CT;R;07R08
+8004;American Red Cross of Delmarva;Wilmington;DE;C;20R04
+9004;American Red Cross serving the District of Columbia;Washington;DC;R;09R04
+10024;American Red Cross of Broward County;Ft. Lauderdale;FL;C;10R12
+10029;American Red Cross of Greater Orlando;Orlando;FL;C;10R28
+10060;American Red Cross of Greater Miami and the Keys;Miami;FL;R;10R12
+10061;American Red Cross of Florida's Space Coast;Daytona Beach;FL;C;10R28
+10090;American Red Cross of Mid Florida;Winter Haven;FL;C;10R28
+10091;American Red Cross of Tampa Bay;Tampa;FL;R;10R28
+10120;American Red Cross of Florida's Coast to Heartland;Vero Beach;FL;C;10R12
+10164;American Red Cross of Florida's Southern Gulf;Fort Myers;FL;C;10R12
+10198;American Red Cross of Northeast Florida;Jacksonville;FL;R;10R08
+10228;American Red Cross of Greater Palm Beach and Martin County;West Palm Beach;FL;C;10R12
+10240;American Red Cross of Northwest Florida;Pensacola;FL;C;10R08
+10276;American Red Cross of Southwest Florida;Sarasota;FL;C;10R28
+10296;American Red Cross of Capital Area Florida;Tallahassee;FL;C;10R08
+11008;American Red Cross of Southwest Georgia;Albany;GA;C;11R04
+11024;American Red Cross of Augusta Area Georgia;Augusta;GA;C;11R04
+11189;American Red Cross of Northeast Georgia;Athens;GA;C;11R04
+11364;American Red Cross of Central Midwest Georgia;LaGrange;GA;C;11R04
+11378;American Red Cross of Metropolitan Atlanta;Atlanta;GA;R;11R04
+11412;American Red Cross of West Central Georgia;Columbus;GA;C;11R04
+11468;American Red Cross of Northwest Georgia;Rome;GA;C;11R04
+11472;American Red Cross of Southeast and Coastal Georgia;Savannah;GA;C;11R04
+11542;American Red Cross of South Georgia;Valdosta;GA;C;11R04
+12024;American Red Cross of Greater Idaho;Boise;ID;R;12R04
+13054;American Red Cross serving Central Illinois;Peoria;IL;R;13R12
+13302;American Red Cross of Greater Chicago;Chicago;IL;R;13R04
+13364;American Red Cross serving the Quad Cities and West Central Illinois;Moline;IL;C;13R12
+13378;American Red Cross of Northwest Illinois;Rockford;IL;C;13R04
+13392;American Red Cross serving South Central Illinois;Springfield;IL;C;13R12
+13490;American Red Cross of the Illinois River Valley;Romeoville;IL;C;13R04
+14006;American Red Cross of Northeast Indiana;Fort Wayne;IN;C;14R12
+14026;American Red Cross of Northwest Indiana;Merrillville;IN;C;14R12
+14088;American Red Cross of Southern Indiana;Evansville;IN;C;14R12
+14164;American Red Cross of Central Indiana;Indianapolis;IN;R;14R12
+14328;American Red Cross of Northern Indiana;South Bend;IN;C;14R12
+14386;American Red Cross of West Central Indiana;Terre Haute;IN;C;14R12
+15080;American Red Cross of Central Iowa;Des Moines;IA;R;15R08
+15148;American Red Cross of Northeast Iowa;Dubuque;IA;C;15R08
+15198;American Red Cross of South and Eastern Iowa;Cedar Rapids;IA;C;15R08
+15422;American Red Cross of North and Western Iowa;Sioux City;IA;C;15R08
+16213;American Red Cross of Capital Area Kansas;Topeka;KS;C;27R12
+16274;American Red Cross of South Central and Southeast Kansas;Wichita;KS;C;27R12
+16298;American Red Cross of Central and Western Kansas;Salina;KS;C;27R12
+17047;American Red Cross of Eastern Kentucky;Ashland;KY;C;17R08
+17048;American Red Cross of Blue Grass;Lexington;KY;C;17R08
+17052;American Red Cross of South Central Kentucky;Bowling Green;KY;C;17R08
+17340;American Red Cross of Louisville Area;Louisville;KY;R;17R08
+17381;American Red Cross of Western Kentucky;Paduchah;KY;C;17R08
+18125;American Red Cross of Capital West Louisiana;Baton Rouge;LA;C;18R08
+18142;American Red Cross of North Louisiana;Shreveport;LA;C;18R08
+18206;American Red Cross of Southeast Louisiana;New Orleans;LA;R;18R08
+19010;American Red Cross of Central and Mid Coast Maine;Topsham;ME;C;19R04
+19096;American Red Cross of Northern and Eastern Maine;Bangor;ME;C;19R04
+19104;American Red Cross of Southern Maine;Portland;ME;R;19R04
+20012;American Red Cross of Central Maryland;Baltimore;MD;R;20R04
+20032;American Red Cross of Southern Maryland;Annapolis;MD;C;20R04
+20044;American Red Cross of Western Maryland;Hagerstown;MD;C;20R04
+20060;ARC serving Montgomery and Prince George's Counties;Silver Spring;MD;C;09R04
+21064;American Red Cross of Cape Islands and Southeast MA;Hyannis;MA;C;21R04
+21066;American Red Cross of Central MA;Worcester;MA;C;21R04
+21115;American Red Cross of Northeast MA;Peabody;MA;C;21R04
+21254;American Red Cross of Western MA;Springfield;MA;C;21R04
+21501;American Red Cross of Massachusetts Bay;Cambridge;MA;R;21R04
+22108;American Red Cross of East Central Bay Michigan;Flint;MI;C;22R08
+22172;American Red Cross of Southwest Michigan;Kalamazoo;MI;C;22R08
+22178;American Red Cross of West Michigan;Grand Rapids;MI;C;22R08
+22216;American Red Cross of Northern Michigan;Traverse City;MI;C;22R08
+22234;American Red Cross of Mid Michigan;Lansing;MI;C;22R08
+22322;American Red Cross of Southeast Michigan;Detroit;MI;R;22R08
+23028;American Red Cross serving Southwest Minnesota;Mankato;MN;C;23R12
+23050;American Red Cross serving Central Minnesota;St. Cloud;MN;C;23R12
+23193;American Red Cross serving Twin Cities Area;Minneapolis;MN;R;23R12
+23222;American Red Cross serving Northern Minnesota;Duluth;MN;C;23R12
+23294;American Red Cross serving Southeast Minnesota;Rochester;MN;C;23R12
+24045;American Red Cross of Southwest Mississippi;Flowood;MS;R;24R08
+24180;American Red Cross of North Mississippi;Tupelo;MS;C;24R08
+24277;American Red Cross of Southeast Mississippi;Gulfport;MS;C;24R08
+25040;American Red Cross of Northwest Missouri;St. Joseph;MO;C;25R12
+25060;American Red Cross of Southeast Missouri;Cape Girardeau;MO;C;25R16
+25062;American Red Cross of Central and Northern Missouri;Jefferson City;MO;C;25R16
+25150;American Red Cross of Greater Kansas City;Kansas City;MO;R;25R12
+25152;American Red Cross of Southern Missouri;Springfield;MO;C;25R12
+25380;American Red Cross of Greater St Louis;St. Louis;MO;R;25R16
+26036;American Red Cross of Montana;Great Falls;MT;C;12R04
+27172;American Red Cross of Central and Western Nebraska;Grand Island;NE;C;27R12
+27186;American Red Cross of Omaha Council Bluffs Metro;Omaha;NE;R;27R12
+27234;American Red Cross of Capital Area and Eastern Nebraska;Lincoln;NE;C;27R12
+28016;American Red Cross of Southern NV;Las Vegas;NV;C;44R04
+28066;American Red Cross of Northern NV;Reno;NV;C;44R04
+29020;American Red Cross of New Hampshire;Concord;NH;R;29R04
+30040;American Red Cross of Southwestern NJ;Pennsauken;NJ;C;30R08
+30076;American Red Cross of Southern Shore NJ;Pleasantville;NJ;C;30R08
+30116;American Red Cross of Jersey Coast;Ocean;NJ;C;30R08
+30140;American Red Cross of Northern New Jersey;Fairfield;NJ;C;30R08
+30176;American Red Cross of Central New Jersey;Princeton;NJ;R;30R08
+30216;American Red Cross of New Jersey Crossroads;Summit;NJ;C;30R08
+31061;American Red Cross of New Mexico;Albuquerque;NM;C;03R04
+32004;American Red Cross of Northeastern New York;Albany;NY;R;32R04
+32036;American Red Cross of Southern Tier New York;Endicott;NY;C;32R20
+32088;American Red Cross of Finger Lakes New York;Corning;NY;C;32R20
+32102;American Red Cross of Mid Hudson Valley New York;Poughkeepsie;NY;C;32R04
+32140;American Red Cross of Western New York;Buffalo;NY;C;32R20
+32176;American Red Cross of North Country New York;Watertown;NY;C;32R04
+32236;American Red Cross of Long Island New York;Mineola;NY;C;32R16
+32336;American Red Cross of Greater Rochester New York;Rochester;NY;C;32R20
+32400;American Red Cross of Central New York;Syracuse;NY;R;32R20
+32420;American Red Cross of Mohawk Valley New York;Utica;NY;C;32R04
+32442;American Red Cross of Metro New York North;Greenwich;CT;C;32R16
+32500;American Red Cross of Greater New York;New York;NY;R;32R16
+33029;The ARC serving the Asheville-Mountain Area of NC;Asheville;NC;C;33R08
+33068;The ARC serving the Southern Piedmont of North Carolina;Concord;NC;C;33R08
+33088;The ARC serving the Blue Ridge Piedmont of North Carolina;Hickory;NC;C;33R08
+33132;The American Red Cross of the Sandhills of North Carolina;Fayettville;NC;C;33R16
+33152;The American Red Cross of Central North Carolina;Durham;NC;C;33R16
+33181;The American Red Cross serving the Charlotte Metro of North Carolina;Charlotte;NC;R;33R08
+33188;The ARC serving the Piedmont Triad of North Carolina;GREENSBORO;NC;C;33R08
+33380;The American Red Cross of Northeastern North Carolina;Greenville;NC;C;33R16
+33430;The ARC of the Triangle Area of North Carolina;Raleigh;NC;R;33R16
+33468;The ARC of the Cape Fear Area Of North Carolina;Wilmington;NC;C;33R16
+34118;ARC serving Eastern North Dakota and Northwest Minnesota;Fargo;ND;R;34R08
+34204;ARC serving Western North Dakota;Minot;ND;C;34R08
+35012;American Red Cross of West Central Ohio;Lima;OH;C;35R20
+35060;American Red Cross of Stark and Muskingum Lakes;Canton;OH;C;35R16
+35072;American Red Cross of Cincinnati and Ohio River;Cincinnati;OH;R;35R12
+35076;American Red Cross of Northern Miami Valley OH;Troy;OH;C;35R12
+35086;American Red Cross of Central Ohio;Columbus;OH;R;35R20
+35106;American Red Cross of Dayton Area OH;Dayton;OH;C;35R12
+35168;American Red Cross of Greater Cleveland;Cleveland;OH;R;35R16
+35170;American Red Cross of Northwest Ohio;Toledo;OH;C;35R20
+35240;American Red Cross of East and South Central Ohio;Newark;OH;C;35R20
+35248;American Red Cross of Lake Erie and Heartland;Wooster;OH;C;35R16
+35260;American Red Cross of North Central Ohio;Findlay;OH;C;35R20
+35312;American Red Cross of Southeast Ohio;Norwich;OH;C;35R20
+35384;American Red Cross of Summit, Portage and Medina;Akron;OH;C;35R16
+35392;American Red Cross of Lake to River;Youngstown;OH;C;35R16
+36104;American Red Cross serving Northwest OK;Stillwater;OK;C;36R04
+36232;American Red Cross serving Central and Southwest OK;Oklahoma City;OK;R;36R04
+36256;American Red Cross serving South Central and Southeast OK;McAlester;OK;C;36R04
+36308;American Red Cross serving Northeast OK;Tulsa;OK;C;36R04
+37036;American Red Cross of Central and Eastern Oregon;Bend;OR;C;37R04
+37080;American Red Cross of Southwest Oregon;Eugene;OR;C;37R04
+37104;American Red Cross of Northwest Oregon;Portland;OR;R;37R04
+38024;Tri-County Chapter of the ARC;Reading;PA;C;38R24
+38052;American Red Cross of West Central Pennsylvania;Butler;PA;C;38R28
+38098;American Red Cross of Mid Central PA;State College;PA;C;38R16
+38116;American Red Cross of Northwestern Pennsylvania;Erie;PA;C;38R28
+38194;American Red Cross of Pennsylvania Mountains;Johnstown;PA;C;38R28
+38196;American Red Cross of Central PA;Harrisburg;PA;R;38R16
+38212;American Red Cross of the Lehigh Valley-Bucks;Allentown;PA;C;38R24
+38256;American Red Cross of the Pocono Mountains;Stroudsburg;PA;C;38R24
+38300;American Red Cross of Southwestern Pennsylvania;Pittsburgh;PA;R;38R28
+38332;American Red Cross of Northeast Pennsylvania;Scranton;PA;C;38R24
+38360;American Red Cross of Southeastern Pennsylvania;Phildalephia;PA;R;38R24
+38400;American Red Cross of North Central PA;Lewisburg;PA;C;38R16
+38428;American Red Cross of Chestnut Ridge Western Pennsylvania;Greensburg;PA;C;38R28
+38444;American Red Cross of South Central PA;York;PA;C;38R16
+39004;American Red Cross of Rhode Island;Providence;RI;C;07R08
+40048;American Red Cross of Lowcountry South Carolina;Charleston;SC;R;40R08
+40050;American Red Cross of Central South Carolina;Columbia;SC;C;40R08
+40104;American Red Cross of UpState South Carolina;Greenville;SC;C;40R08
+40120;American Red Cross of Eastern South Carolina;Myrtle Beach;SC;C;40R08
+40196;American Red Cross of Northern South Carolina;Rock Hill;SC;C;33R08
+41016;ARC serving Central and Western South Dakota;Rapid City;SD;C;34R08
+41208;ARC serving Eastern South Dakota;Sioux Falls;SD;C;34R08
+42036;American Red Cross of Southeast Tennessee;Chattanooga;TN;C;42R20
+42170;American Red Cross of Mid-West Tennessee;Jackson;TN;C;42R20
+42192;American Red Cross of Northeast Tennessee;Kingsport;TN;C;42R20
+42196;American Red Cross of East Tennessee;Knoxville;TN;C;42R20
+42204;American Red Cross of Tennessee River;Clarksville;TN;C;42R20
+42264;American Red Cross of Mid-South Tennessee;Memphis;TN;C;42R20
+42296;American Red Cross of Nashville Area;Nashville;TN;R;42R20
+42344;American Red Cross Heart of Tennessee;Murfreesboro;TN;C;42R20
+43044;American Red Cross of Southeast & Deep East Texas;Beaumont;TX;C;43R28
+43092;American Red Cross of South Texas;Harlington;TX;C;43R28
+43129;American Red Cross serving Central TX;Austin;TX;R;43R08
+43142;American Red Cross of Coastal Bend-Texas;Corpus Christi;TX;C;43R28
+43200;American Red Cross serving Dallas Fort Worth;Dallas;TX;R;43R16
+43256;American Red Cross of El Paso and Southern NM;El Paso;TX;C;03R04
+43332;American Red Cross serving the Texoma Area;McKinney;TX;C;43R16
+43333;American Red Cross serving the Texas Panhandle;Amarillo;TX;C;43R16
+43336;American Red Cross of Greater Houston;Houston;TX;R;43R28
+43390;American Red Cross serving the Heart of TX;Waco;TX;C;43R08
+43484;American Red Cross serving the Hill Country of TX;Kerrville;TX;C;43R08
+43552;American Red Cross serving the Texas South Plains;Lubbock;TX;C;43R16
+43596;American Red Cross serving the Permian Basin of TX;Midland;TX;C;43R08
+43746;American Red Cross serving Greater San Antonio TX;San Antonio;TX;C;43R08
+43784;American Red Cross serving East Texas;Tyler;TX;C;43R16
+43828;American Red Cross serving the Northeast Texas Area;Texarkana;TX;C;43R16
+43916;American Red Cross serving Texas Big Country;Wichita Falls;TX;C;43R16
+44006;American Red Cross of Northern UT;Ogden;UT;C;44R04
+44022;American Red Cross Central and Southern UT;Provo;UT;C;44R04
+44084;American Red Cross of Greater Salt Lake;Salt Lake City;UT;R;44R04
+45061;American Red Cross of Vermont;Burlington;VT;C;29R04
+46008;American Red Cross serving Alexandria and Arlington;Alexandria;VA;C;09R04
+46036;American Red Cross of Blue Ridge Virginia;Lynchburg;VA;C;46R08
+46052;American Red Cross of Mountain Empire Virginia;Bristol;VA;C;46R08
+46081;American Red Cross of Shenandoah Virginia;Charlottesville;VA;C;46R08
+46144;American Red Cross serving Fairfax County;Fairfax;VA;C;09R04
+46168;American Red Cross of Rappahannock Virginia;Frdericksburg;VA;C;46R08
+46248;ARC serving Loudoun and Prince William Counties;Leesburg;VA;C;09R04
+46372;American Red Cross of Capital Virginia;Richmond;VA;R;46R08
+46380;American Red Cross of Roanoke and New River Valleys Virginia;Roanoke;VA;C;46R08
+46441;American Red Cross of Coastal Virginia;Norfolk;VA;C;46R08
+47018;The ARC serving Central and Southeastern Washington;Kennewick;WA;C;47R08
+47028;American Red Cross of Southwest Washington;Vancouver;WA;C;37R04
+47066;The American Red Cross serving the Greater Inland Northwest;Spokane;WA;C;47R08
+47072;The American Red Cross serving Kitsap and Olympic Peninsulas;Bremerton;WA;C;47R08
+47116;The American Red Cross serving King County;Seattle;WA;R;47R08
+47128;The American Red Cross serving Snohomish County;Everertt;WA;C;47R08
+47138;The American Red Cross of South Puget Sound;Tacoma;WA;C;47R08
+47152;The American Red Cross serving Northwest Washington;Bellingham;WA;C;47R08
+48036;American Red Cross of Southwest West Virginia;Charleston;WV;R;48R04
+48048;American Red Cross of Southeast West Virginia;Beckley;WV;C;48R04
+48119;American Red Cross of Northwest West Virginia;Parkersburg;WV;C;48R04
+48240;American Red Cross of Northeast West Virginia;Morgantown;WV;C;48R04
+49064;American Red Cross of Southwest Wisconsin;Madison;WI;C;49R12
+49084;American Red Cross of Northwest Wisconsin;Altoona;WI;C;49R12
+49110;American Red Cross of Southeast Wisconsin;Milwaukee;WI;R;49R12
+49162;American Red Cross of Northeast Wisconsin;Oshkosh;WI;C;49R12
+49248;American Red Cross of North Central Wisconsin;Wausau;WI;C;49R12
+50060;American Red Cross of Wyoming;Cheyenne;WY;C;06R08
+53004;American Red Cross of Guam;Hagatna;GU;C;54R04
+54004;American Red Cross of Hawaii;Honolulu;HI;R;54R04
+55004;American Red Cross of Northern Mariana Islands;Saipan;MP;C;54R04
+56004;American Red Cross of Puerto Rico;Rio Pedras;PR;R;56R04

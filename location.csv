@@ -1,0 +1,4 @@
+ID;Location;Location Long Name;Address;Address2;City;State;Zip;Default;SiteOpen;DateOpen;DateClosed;HasDST;DSTContactName;DSTContactPhone;DSTContactEmail;SiteContactName;SiteContactPhone;SiteContactEmail;loCreatedAt;loCreatedBy
+1;DROHQ;DRHQ;572 Dry Gulch Road;;Adair;OK;74330;-1;-1;;;-1;;;;;;;2018-07-04 00:00:00;TIMS
+2;KIT01;First Baptist Church of Salina;110 N Ross St;;Salina;OK;;0;-1;2018-10-08 00:00:00;;0;;;;Pastor Lovejoy;5075553411;;2018-08-22 13:25:30;SBX1
+3;SH7309;Spavinaw School;100 Lake Ave;;Spavinaw;OK;;0;-1;2018-10-05 00:00:00;;0;;;;Seymour  Skinner;5075551143;;2018-08-22 13:25:30;SBX1

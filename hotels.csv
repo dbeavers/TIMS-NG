@@ -1,0 +1,4 @@
+HotelID;HotelName;HotelAddress1;HotelAddress2;HotelCity;HotelST;HotelZip;HotelTelephone;htCreatedAt;htCreatedBy
+1;HOME OF RECORD;;;;FM;;;;
+2;America’s Best Value Inn;123 S Mill St;;Pryor;OK;;8555556558;2018-08-22 13:25:34;SNDBX
+3;Holiday Pines Motel;123 S Main St;;Jay;OK;;8555556561;2018-08-22 13:25:34;SNDBX
